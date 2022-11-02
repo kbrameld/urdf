@@ -2,8 +2,8 @@
 Changelog for package urdf
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.8.1 (2022-11-02)
+------------------
 * [urdf] package.xml: add missing exec_depend to urdf_parser_plugin (`#34 <https://github.com/ros2/urdf/issues/34>`_)
 * Contributors: Tobias Neumann
 
