@@ -2,6 +2,11 @@
 Changelog for package urdf_parser_plugin
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [rolling] Update maintainers - 2022-11-07 (`#35 <https://github.com/ros2/urdf/issues/35>`_)
+* Contributors: Audrow Nash
+
 2.8.1 (2022-11-02)
 ------------------
 
